@@ -10,5 +10,12 @@ public class Main {
         System.out.println("Книга: " + warAndPeace.getName() + " " + "Автор: " + warAndPeace.getAuthor() + " " + "Год издания: " + warAndPeace.getYearOfPublication());
         warAndPeace.setYearOfPublication(1869);
         System.out.println("Книга: " + warAndPeace.getName() + " " + "Автор: " + warAndPeace.getAuthor() + " " + "Год издания: " + warAndPeace.getYearOfPublication());
+//Домашняя работа 10
+        System.out.println("ДЗ№10");
+        System.out.println(crimeAndPunishment.toString());
+        System.out.println(idiot.toString());
+        System.out.println(warAndPeace.toString());
+
+
     }
 }
